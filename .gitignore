@@ -1,0 +1,7 @@
+# metadata
+
+Cargo.lock
+
+# build artifacts
+
+target/
